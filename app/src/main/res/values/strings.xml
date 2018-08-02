@@ -1,0 +1,16 @@
+<resources>
+	<string name="app_name">Travel Aid</string>
+	<string name="default_notification_channel_id">default_notification_channel_id</string>
+	<string name="register">Register</string>
+	<string name="login">Login</string>
+	<string name="app_slogan">…traveling just got easier</string>
+	<string name="password">Password</string>
+	<string name="username">Username</string>
+	<string name="skip">skip</string>
+	
+	<!--ViewPager-->
+	<string name="title1">Plan your trip</string>
+	<string name="desc1">Enter your pick and enjoy your ride!</string>
+	<string name="title2">Reserve your seat</string>
+	<string name="desc2">Reserve comfortable seats in an AC Luxurious bus with just a tap</string>
+</resources>
